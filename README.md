@@ -22,7 +22,7 @@ python expense_tracker.py
 ## How to run the tests
 
 ```
-python test_expenses.py
+python expense_tracker_test.py
 ```
 
 You should see `OK` at the end.
